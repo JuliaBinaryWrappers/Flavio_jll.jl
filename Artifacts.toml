@@ -1,0 +1,88 @@
+[[Flavio]]
+arch = "aarch64"
+git-tree-sha1 = "16127896c5b4816d91cf1d9bc2568b56987c4e7f"
+os = "macos"
+
+    [[Flavio.download]]
+    sha256 = "6a4ac3513f32fab656bdc27da721645e60a4bcedff2c740c035315fbb37b52d0"
+    url = "https://github.com/JuliaBinaryWrappers/Flavio_jll.jl/releases/download/Flavio-v0.1.0+0/Flavio.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[Flavio]]
+arch = "aarch64"
+git-tree-sha1 = "e0d56c0967895ac4efb0a9c92851f9622a06a700"
+libc = "glibc"
+os = "linux"
+
+    [[Flavio.download]]
+    sha256 = "98a3bfd465bcefdfb174f4a850fb947b15e4b55c74fd1974050ef5663dd3d922"
+    url = "https://github.com/JuliaBinaryWrappers/Flavio_jll.jl/releases/download/Flavio-v0.1.0+0/Flavio.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[Flavio]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c836e9e005cec35ed13dbad08fc287877a805754"
+libc = "glibc"
+os = "linux"
+
+    [[Flavio.download]]
+    sha256 = "23e840cf53b0c17e383531352625d535cfeef48a5d436264b74475dd8af5e1a1"
+    url = "https://github.com/JuliaBinaryWrappers/Flavio_jll.jl/releases/download/Flavio-v0.1.0+0/Flavio.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[Flavio]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "43d4058524eb025abc75660d2e91b1f7f4cd3627"
+libc = "glibc"
+os = "linux"
+
+    [[Flavio.download]]
+    sha256 = "43352308f1be1eac509f43b7d47e9554da4a5e4ca574cbd4cf9ad69121b23096"
+    url = "https://github.com/JuliaBinaryWrappers/Flavio_jll.jl/releases/download/Flavio-v0.1.0+0/Flavio.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[Flavio]]
+arch = "i686"
+git-tree-sha1 = "c60a380d745152a73f543dcf6061bc142ee790da"
+libc = "glibc"
+os = "linux"
+
+    [[Flavio.download]]
+    sha256 = "95d5b1d8871c079632b0fbf8a44cce2b13c7a4759efb4c2a3408f76a7bd9b5e6"
+    url = "https://github.com/JuliaBinaryWrappers/Flavio_jll.jl/releases/download/Flavio-v0.1.0+0/Flavio.v0.1.0.i686-linux-gnu.tar.gz"
+[[Flavio]]
+arch = "powerpc64le"
+git-tree-sha1 = "b83bbeb6cf7a3978920f3d8dabc14daa2fe91473"
+libc = "glibc"
+os = "linux"
+
+    [[Flavio.download]]
+    sha256 = "a8011a6fb96aad2dbb57443bd7f899303a3ce76ba4744d547a6ff3c6e35dd6e0"
+    url = "https://github.com/JuliaBinaryWrappers/Flavio_jll.jl/releases/download/Flavio-v0.1.0+0/Flavio.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[Flavio]]
+arch = "x86_64"
+git-tree-sha1 = "bb43b5b0ec888e493ac429c7685697a4accefa16"
+os = "macos"
+
+    [[Flavio.download]]
+    sha256 = "3b790e873c21e3a3a2ccc18d281cb8e2e4c16f672513986005e60caef59e975a"
+    url = "https://github.com/JuliaBinaryWrappers/Flavio_jll.jl/releases/download/Flavio-v0.1.0+0/Flavio.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[Flavio]]
+arch = "x86_64"
+git-tree-sha1 = "64012421989918870c4bcbbdd248020b81f3b38d"
+libc = "glibc"
+os = "linux"
+
+    [[Flavio.download]]
+    sha256 = "032431e1fce00c31a73dc94904597b0cb36dfe5c94fc55c6c8fdfafd7f8b23be"
+    url = "https://github.com/JuliaBinaryWrappers/Flavio_jll.jl/releases/download/Flavio-v0.1.0+0/Flavio.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[Flavio]]
+arch = "x86_64"
+git-tree-sha1 = "248b4be162213210e45c79f27402aaebb552d89f"
+os = "freebsd"
+
+    [[Flavio.download]]
+    sha256 = "e373f5f33a97b8fa041e93cddc8d13436537140506809fa323220313a1789c4c"
+    url = "https://github.com/JuliaBinaryWrappers/Flavio_jll.jl/releases/download/Flavio-v0.1.0+0/Flavio.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[Flavio]]
+arch = "x86_64"
+git-tree-sha1 = "c4733c5d4c7c1bbb48d5faa316a168b953514c5c"
+os = "windows"
+
+    [[Flavio.download]]
+    sha256 = "e1ecad0392dfb7446f19fb2f68e02c231630b4a94e6439a0b4abf5164e6e97cd"
+    url = "https://github.com/JuliaBinaryWrappers/Flavio_jll.jl/releases/download/Flavio-v0.1.0+0/Flavio.v0.1.0.x86_64-w64-mingw32.tar.gz"
